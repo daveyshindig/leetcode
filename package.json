@@ -1,0 +1,14 @@
+{
+    "name": "leetcode",
+    "version": "1.0.0",
+    "dependencies": {
+        "babel-core": "^6.25.0",
+        "babel-loader": "^7.1.1",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-runtime": "^6.23.0",
+        "fable-compiler": "^0.7.51",
+        "fable-core": "^0.7.30",
+        "source-map-loader": "^0.2.1",
+        "webpack": "^3.3.0"
+    }
+}
